@@ -8,3 +8,6 @@
 
 4.To run these functions use the code 'TestingFunction'. Run the section of the functional you want. 
 Make sure to adjust the parameters as you want before running the section.
+
+5.For the parameters, keep u_solver as '1', keep mu as '20', keep non_negativity as '1'. 
+These are all parameters I have not implemented fully yet, so keep them as this.
