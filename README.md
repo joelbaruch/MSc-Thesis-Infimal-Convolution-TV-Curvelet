@@ -6,4 +6,5 @@
 
 3.The function which runs the curvelet-only functional is called 'Curvelets_only.m'.
 
-4.To run these functions use the code 'TestingFunction'. Run the section of the functional you want.
+4.To run these functions use the code 'TestingFunction'. Run the section of the functional you want. 
+Make sure to adjust the parameters as you want before running the section.
