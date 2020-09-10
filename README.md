@@ -1,4 +1,4 @@
-# MSc-Thesis-Infimal-Convolution
+# MSc-Thesis-Infimal-Convolution-TV-Curvelet
 
 1.The function which runs the infimal convolution type functional is called 'TVCurvelets_21_8.m'.
 
