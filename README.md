@@ -4,6 +4,6 @@
 
 2.The function which runs the the TV-only functional is called 'TV_only.m'.
 
-3.The function which runs the curvelet-only functional is called 'Curvelet_only.m'.
+3.The function which runs the curvelet-only functional is called 'Curvelets_only.m'.
 
 4.To run these functions use the code 'TestingFunction'. Run the section of the functional you want.
